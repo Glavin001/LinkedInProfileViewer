@@ -1,0 +1,3 @@
+LinkedInProfileViewer
+=====================
+I noticed that when I viewed someone's profile, they would connect with me. So...
